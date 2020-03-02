@@ -1,0 +1,15 @@
+C:\Users\az\source\repos\Pinger\Pinger\bin\Debug\Pinger.exe.config
+C:\Users\az\source\repos\Pinger\Pinger\bin\Debug\Pinger.exe
+C:\Users\az\source\repos\Pinger\Pinger\bin\Debug\Pinger.pdb
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.csprojAssemblyReference.cache
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\MainWindow.g.cs
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\App.g.cs
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger_MarkupCompile.cache
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger_MarkupCompile.lref
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\MainWindow.baml
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.g.resources
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.Properties.Resources.resources
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.csproj.GenerateResource.cache
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.csproj.CoreCompileInputs.cache
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.exe
+C:\Users\az\source\repos\Pinger\Pinger\obj\Debug\Pinger.pdb
